@@ -1,0 +1,12 @@
+./
+../
+.classpath
+.git/
+.gitignore
+.project
+.settings/
+pom.xml
+README.md
+src/
+target/
+testy.txt
